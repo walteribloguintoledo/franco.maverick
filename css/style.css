@@ -1,0 +1,63 @@
+@font-face {
+    font-family: Mori;
+    src: url(/font/Mori.otf);
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/font/Inter.ttf);
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(/font/Nunito.ttf);
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(/font/Poppins.ttf);
+}
+
+@font-face {
+    font-family: Quicksand;
+    src: url(/font/Quicksand.ttf);
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url(/font/Raleway.ttf);
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(/font/Roboto.ttf);
+}
+
+
+.mori {
+    font-family: mori;
+}
+
+.inter {
+    font-family: inter;
+}
+
+.nunito {
+    font-family: nunito;
+}
+
+.poppins {
+    font-family: poppins;
+}
+
+.quicksand {
+    font-family: quicksand;
+}
+
+.raleway {
+    font-family: raleway;
+}
+
+.roboto {
+    font-family: roboto;
+}
